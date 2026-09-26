@@ -2,10 +2,14 @@
 
 > **Artisan Kaapi & Brew** — A specialty coffee web application celebrating world single-origins, Indian heritage beans (*Monsoon Malabar, Chikmagalur, Coorg, Araku Valley*), interactive brewing calculators with live audio timers, coffee personality quizzes, and an intelligent AI Barista Sommelier.
 
+[![Live Demo](https://img.shields.io/badge/Live_App-Visit_Website-d97706?style=for-the-badge&logo=coffeescript&logoColor=white)](https://yuktha5.github.io/cofffee-web-app/)
+
 [![React](https://img.shields.io/badge/React-19-blue.svg)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6-646CFF.svg)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38B2AC.svg)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-amber.svg)](LICENSE)
+
+🌐 **Live Website:** [https://yuktha5.github.io/cofffee-web-app/](https://yuktha5.github.io/cofffee-web-app/)
 
 ---
 
@@ -107,10 +111,9 @@ cd cofffee-web-app
 npm install
 
 # Start the local development server
-npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the application.
+Access the live web app directly: [https://yuktha5.github.io/cofffee-web-app/](https://yuktha5.github.io/cofffee-web-app/)
 
 ### Production Build
 
